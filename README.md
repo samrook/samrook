@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @samrook, a full stack PHP developer and Software Engineer from the United Kingdom.
-- ⚡ Currently employed in the EV industry.
+- 👋 Hi, I’m @samrook, a Full Stack PHP Developer and Software Engineer from the United Kingdom.
+- 🎲 Currently employed in the charitable gaming sector.
 
 <!---
 samrook/samrook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
